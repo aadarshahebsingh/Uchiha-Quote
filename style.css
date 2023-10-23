@@ -1,0 +1,24 @@
+html{
+    background-color: black;
+}
+h1{
+    text-transform: uppercase;
+    color: aliceblue;
+    font-family: 'Nosifer', sans-serif;
+    /* align-items: center; */
+    font-size: 3rem;
+
+}
+.theMain{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+}
+.poster{
+    border: 5px solid rgb(157, 60, 60);
+    width: 100%;
+}
